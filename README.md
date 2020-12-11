@@ -6,5 +6,6 @@ earn the big bucks.
 ## Concepts Used
 1.Android Lifecycles<br>
 2.Log messages<br>
+3.Timber implementation<br>
 
 
