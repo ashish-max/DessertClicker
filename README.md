@@ -8,12 +8,4 @@ earn the big bucks.
 2.Log messages<br>
 3.Timber implementation<br>
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
 
